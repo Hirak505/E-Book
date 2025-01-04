@@ -1,0 +1,1 @@
+// Example search bar component.
